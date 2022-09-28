@@ -15,4 +15,5 @@
 
     //Enviar con mail los datos
     mail($destinatario, $asunto, $carta);
+    header("Location: ../mensaje.html");
 ?>
