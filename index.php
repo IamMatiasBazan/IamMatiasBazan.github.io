@@ -66,7 +66,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/img-css-naranja.png" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio 3-->
@@ -219,15 +219,17 @@
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/workshop-html-css.png" alt="" />
                                     <div class="botones-model">
-                                        <button class="btn btn-primary btn-visitar-sitio" data-bs-dismiss="modal">
-                                        <i class="fa-sharp fa-solid fa-share-from-square"></i>
-                                            Visitar sitio
-                                        </button>
+                                        <a href="https://iammatiasbazan.github.io/Workshop">
+                                            <button class="btn btn-primary btn-visitar-sitio" data-bs-dismiss="modal">
+                                            <i class="fa-sharp fa-solid fa-share-from-square"></i>
+                                                Visitar sitio
+                                            </button>
+                                        </a>
                                         <button class="btn btn-primary" data-bs-dismiss="modal">
-                                        <i class="fa-sharp fa-solid fa-share-from-square"></i>
-                                            Visitar sitio
+                                        <i class="fa-solid fa-download"></i>
+                                            Explicación de desarrollo
                                         </button>
                                     </div>
                                 </div>
@@ -245,17 +247,22 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Workshop Imagenes</h2>
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/img-css-naranja.png" alt="..." />
+                                    <a href="https://iammatiasbazan.github.io/Workshop-imagenes-css/">
+                                        <button class="btn btn-primary btn-visitar-sitio" data-bs-dismiss="modal">
+                                        <i class="fa-sharp fa-solid fa-share-from-square"></i>
+                                            Visitar sitio
+                                        </button>
+                                    </a>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
-                                        <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                    <i class="fa-solid fa-download"></i>
+                                        Explicación de desarrollo
                                     </button>
                                 </div>
                             </div>
@@ -279,10 +286,15 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <a href="https://iammatiasbazan.github.io/Workshop">
+                                        <button class="btn btn-primary btn-visitar-sitio" data-bs-dismiss="modal">
+                                        <i class="fa-sharp fa-solid fa-share-from-square"></i>
+                                            Visitar sitio
+                                        </button>
+                                    </a>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
-                                        <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                    <i class="fa-solid fa-download"></i>
+                                        Explicación de desarrollo
                                     </button>
                                 </div>
                             </div>
@@ -306,10 +318,15 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <a href="https://iammatiasbazan.github.io/Workshop">
+                                        <button class="btn btn-primary btn-visitar-sitio" data-bs-dismiss="modal">
+                                        <i class="fa-sharp fa-solid fa-share-from-square"></i>
+                                            Visitar sitio
+                                        </button>
+                                    </a>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
-                                        <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                    <i class="fa-solid fa-download"></i>
+                                        Explicación de desarrollo
                                     </button>
                                 </div>
                             </div>
@@ -333,10 +350,15 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="..." />
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <a href="https://iammatiasbazan.github.io/Workshop">
+                                        <button class="btn btn-primary btn-visitar-sitio" data-bs-dismiss="modal">
+                                        <i class="fa-sharp fa-solid fa-share-from-square"></i>
+                                            Visitar sitio
+                                        </button>
+                                    </a>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
-                                        <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                    <i class="fa-solid fa-download"></i>
+                                        Explicación de desarrollo
                                     </button>
                                 </div>
                             </div>
@@ -360,10 +382,15 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="..." />
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <a href="https://iammatiasbazan.github.io/Workshop">
+                                        <button class="btn btn-primary btn-visitar-sitio" data-bs-dismiss="modal">
+                                        <i class="fa-sharp fa-solid fa-share-from-square"></i>
+                                            Visitar sitio
+                                        </button>
+                                    </a>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
-                                        <i class="fas fa-xmark fa-fw"></i>
-                                        Close Window
+                                        <i class="fa-solid fa-download"></i>
+                                            Explicación de desarrollo
                                     </button>
                                 </div>
                             </div>
