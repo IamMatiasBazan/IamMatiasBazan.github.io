@@ -277,14 +277,14 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Login</h2>
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/login.png" alt="..." />
-                                    <a href="https://iammatiasbazan.github.io/Workshop">
+                                    <a href="https://sistema-de-secion.000webhostapp.com/">
                                         <button class="btn btn-primary btn-visitar-sitio" data-bs-dismiss="modal">
                                         <i class="fa-sharp fa-solid fa-share-from-square"></i>
                                             Visitar sitio
