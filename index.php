@@ -75,7 +75,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/login.png" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio 4-->
@@ -283,7 +283,7 @@
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/login.png" alt="..." />
                                     <a href="https://iammatiasbazan.github.io/Workshop">
                                         <button class="btn btn-primary btn-visitar-sitio" data-bs-dismiss="modal">
                                         <i class="fa-sharp fa-solid fa-share-from-square"></i>
