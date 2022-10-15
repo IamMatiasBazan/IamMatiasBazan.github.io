@@ -201,7 +201,7 @@
             </div>
         </footer>
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright &copy; Todos los derechos reservados 2022</small></div>
+            <div class="container"><small>Copyright &copy; 2022</small></div>
         </div>
         <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1" aria-hidden="true">
             <div class="modal-dialog modal-xl">
@@ -225,10 +225,12 @@
                                                 Visitar sitio
                                             </button>
                                         </a>
-                                        <button class="btn btn-primary" data-bs-dismiss="modal">
-                                        <i class="fa-solid fa-download"></i>
-                                            Explicación de desarrollo
-                                        </button>
+                                            <a download="Proyecto-Login(Sistema de inicio de sesión)" href="pdf/proyecto-login.pdf">
+                                                <button class="btn btn-primary" data-bs-dismiss="modal">
+                                                <i class="fa-solid fa-download"></i>
+                                                    Explicación de desarrollo
+                                                </button>
+                                            </a>
                                     </div>
                                 </div>
                             </div>
@@ -259,9 +261,11 @@
                                         </button>
                                     </a>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fa-solid fa-download"></i>
-                                        Explicación de desarrollo
-                                    </button>
+                                    <a download="Proyecto-Login(Sistema de inicio de sesión)" href="pdf/proyecto-login.pdf">
+                                        <i class="fa-solid fa-download"></i>
+                                            Explicación de desarrollo
+                                        </button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -291,9 +295,11 @@
                                         </button>
                                     </a>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fa-solid fa-download"></i>
-                                        Explicación de desarrollo
-                                    </button>
+                                    <a download="Proyecto-Login(Sistema de inicio de sesión)" href="pdf/proyecto-login.pdf">
+                                        <i class="fa-solid fa-download"></i>
+                                            Explicación de desarrollo
+                                        </button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -323,9 +329,11 @@
                                         </button>
                                     </a>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <i class="fa-solid fa-download"></i>
-                                        Explicación de desarrollo
-                                    </button>
+                                    <a download="Proyecto-Login(Sistema de inicio de sesión)" href="pdf/proyecto-login.pdf">
+                                        <i class="fa-solid fa-download"></i>
+                                            Explicación de desarrollo
+                                        </button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
