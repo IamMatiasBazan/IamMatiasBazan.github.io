@@ -294,8 +294,8 @@
                                             Visitar sitio
                                         </button>
                                     </a>
-                                    <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <a download="Proyecto-Login(Sistema de inicio de sesión)" href="pdf/proyecto-login.pdf">
+                                    <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fa-solid fa-download"></i>
                                             Explicación de desarrollo
                                         </button>
