@@ -225,7 +225,7 @@
                                                 Visitar sitio
                                             </button>
                                         </a>
-                                            <a download="Proyecto-Login(Sistema de inicio de sesión)" href="pdf/proyecto-login.pdf">
+                                            <a download="Workshop HTML&CSS" href="pdf/workshop.pdf">
                                                 <button class="btn btn-primary" data-bs-dismiss="modal">
                                                 <i class="fa-solid fa-download"></i>
                                                     Explicación de desarrollo
@@ -261,7 +261,7 @@
                                         </button>
                                     </a>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
-                                    <a download="Proyecto-Login(Sistema de inicio de sesión)" href="pdf/proyecto-login.pdf">
+                                    <a download="workshop-imagen" href="pdf/workshop-image.pdf">
                                         <i class="fa-solid fa-download"></i>
                                             Explicación de desarrollo
                                         </button>
