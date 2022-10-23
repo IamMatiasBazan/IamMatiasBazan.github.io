@@ -260,8 +260,8 @@
                                             Visitar sitio
                                         </button>
                                     </a>
-                                    <button class="btn btn-primary" data-bs-dismiss="modal">
                                     <a download="workshop-imagen" href="pdf/workshop-image.pdf">
+                                    <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fa-solid fa-download"></i>
                                             Explicación de desarrollo
                                         </button>
