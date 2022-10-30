@@ -57,7 +57,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/workshop-html-css.png" alt="imagen workshop" />
+                            <img class="img-fluid" src="assets/img/portfolio/workshop-html-css.png" alt="imagen workshop">
                         </div>
                     </div>
                     <!-- Portfolio 2-->
@@ -66,16 +66,16 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/img-css-naranja.png" alt="imagen css" />
+                            <img class="img-fluid" src="assets/img/portfolio/img-css-naranja.png" alt="imagen css">
                         </div>
                     </div>
                     <!-- Portfolio 3-->
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
+                    <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
+                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal4">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/login.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/game.png" alt="...">
                         </div>
                     </div>
                     <!-- Portfolio 4-->
@@ -84,7 +84,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/game.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/game.png" alt="...">
                         </div>
                     </div>
                     <!-- Portfolio 5-->
@@ -131,38 +131,42 @@
         </section>
         <section class="page-section" id="contact">
             <div class="container">
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contáctame</h2>
+                <!-- Contact Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
+                <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
+                <!-- Contact Section Form-->
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-xl-7">
-                        <form action="php/correo.php" method="post">
+                        <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                            <!-- Nombre input-->
                             <div class="form-floating mb-3">
-                                <input class="form-control" name="nombre" id="name" type="text" placeholder="Ingrese su nombre" data-sb-validations="required" />
+                                <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
                                 <label for="name">Nombre</label>
-                                <div class="invalid-feedback" data-sb-feedback="name:required">Nombre requerido.</div>
+                                <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                             </div>
                             <!-- Apellido input-->
                             <div class="form-floating mb-3">
-                                <input class="form-control" name="apellido" id="surname" type="text" placeholder="Ingrese su apellido" data-sb-validations="required" />
-                                <label for="surname">Apellido</label>
-                                <div class="invalid-feedback" data-sb-feedback="surname:required">Apellido requerido.</div>
+                                <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
+                                <label for="name">Apellido</label>
+                                <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                             </div>
-                            <!-- Email input-->
+                            <!-- Email address input-->
                             <div class="form-floating mb-3">
-                                <input class="form-control" name="correo" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
+                                <input class="form-control" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
                                 <label for="email">Email</label>
-                                <div class="invalid-feedback" data-sb-feedback="email:required">Email requerido.</div>
+                                <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                 <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                             </div>
-                            <!-- Mensaje input-->
+                            <!-- Message input-->
                             <div class="form-floating mb-3">
-                                <textarea class="form-control" name="mensaje" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
+                                <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
                                 <label for="message">Mensaje</label>
-                                <div class="invalid-feedback" data-sb-feedback="message:required">Mensaje requerido.</div>
+                                <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                             </div>
                             <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
                             <button class="btn btn-primary btn-xl" id="submitButton" type="submit">Send</button>
@@ -287,7 +291,7 @@
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/login.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="..." />
                                     <a href="https://sistema-de-secion.000webhostapp.com/">
                                         <button class="btn btn-primary btn-visitar-sitio" data-bs-dismiss="modal">
                                         <i class="fa-sharp fa-solid fa-share-from-square"></i>
