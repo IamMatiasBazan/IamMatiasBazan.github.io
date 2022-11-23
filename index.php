@@ -122,7 +122,7 @@
                     <div class="col-lg-4 me-auto"><p class="lead">En mi portfolio podrás ver una selección de trabajos realizados en los últimos años en todos estos campos. Espero tener la oportunidad de aportar mis conocimientos.</p></div>
                 </div>
                 <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" download="cv" href="cv/cv.pdf">
+                    <a class="btn btn-xl btn-outline-light" download="cv" href="cv/CVMatias.pdf">
                         <i class="fas fa-download me-2"></i>
                         Descargar CV
                     </a>
